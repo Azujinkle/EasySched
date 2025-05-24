@@ -27,14 +27,14 @@ export default function About() {
         <div>
           <h2 className="text-2xl sm:text-4xl font-bold text-center sm:text-left">Create a free account today!</h2>
           <p className="text-lg sm:text-xl text-center sm:text-left">
-            It isn't necessary, but it helps with:
+            This is not necessary, but it helps with:
           </p>
           <ol>
             <li className="text-lg sm:text-xl text-center sm:text-left">
               <strong>Saving Scheds:</strong> Easily access numerous Scheds at once.
             </li>
             <li className="text-lg sm:text-xl text-center sm:text-left">
-              <strong>Update Personal Scheds:</strong> Ensure a plan for one event doesn't interfere with another.
+              <strong>Update Personal Scheds:</strong> Ensure a plan for one event does not interfere with another.
             </li>
           </ol>
           <a href="/signup">

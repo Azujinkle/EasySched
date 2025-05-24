@@ -40,13 +40,10 @@ export default function RootLayout({
           <h1 className="text-2xl font-bold">EasySched</h1>
           <ul className="flex gap-4 mt-2 text-base">
             <li>
-              <a href="/" className="hover:underline">Features</a>
+              <a href="./" className="hover:underline">About</a>
             </li>
             <li>
-              <a href="#about" className="hover:underline">About</a>
-            </li>
-            <li>
-              <a href="#signup" className="hover:underline">Sign Up</a>
+              <a href="./signup" className="hover:underline">Sign Up</a>
             </li>
           </ul>
         </div>
